@@ -1,5 +1,29 @@
 
-# Module 1 Final Project
+# Module 1 Final Project Submissions
+
+
+## File structure
+
+Please, refer to ![final_notebook](https://github.com/AnnaLara/dsc-1-final-project/blob/master/final_notebook.ipynb) as our main working notebook.
+
+The directory also includes other notebooks that we used as drafts and for visualization purposes, as well as png images used in blog post.
+
+## Presentation
+
+Our presentation can be accessed with ![this link](https://docs.google.com/presentation/d/1giwBhXJsj6OJRegxyEWuLGmiGKHhsnskNlKTO4_94Zc/edit?usp=sharing)
+
+## Blogpost
+
+The blogpost on log-transformation can be accessed with ![this link](https://dev.to/annalara/king-county-house-sales-dataset-log-transformations-and-interpreting-results-19b2)
+
+
+
+
+
+
+
+
+# Module 1 Final Project Requirements
 
 
 ## Introduction
