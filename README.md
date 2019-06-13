@@ -44,9 +44,9 @@ The blogpost on log-transformation can be accessed with [this link](https://dev.
 
 First of all, we created some beseline metrics to be able to see how do our models perform. We took an average price and calculated evaluaition metrics based on it:
 
-MSE: 134953101375.57
-RMSE: 367,359.63
-MAE: 234,028.18
+- MSE: 134953101375.57
+- RMSE: 367,359.63
+- MAE: 234,028.18
 
 ### Data cleaning
 
@@ -109,11 +109,11 @@ Our final model included the following variables and coefficients:
 
 **Model performance**:
 
-R-squared: 0.727
-MAE : 83589.61
-Cross-validated MAE: -82730.77
-Improvement from baseline - RMSE: 70%
-Improvement from baseline - MAE (both csorr-validated and not-cross-validated): 64%
+- R-squared: 0.727
+- MAE : 83589.61
+- Cross-validated MAE: -82730.77
+- Improvement from baseline - RMSE: 70%
+- Improvement from baseline - MAE (both csorr-validated and not-cross-validated): 64%
 
 ### Strongest predictors (for the homes up to 1.2 million):
 
